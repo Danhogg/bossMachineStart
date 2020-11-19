@@ -28,7 +28,7 @@ In **server.js**, you will see some boilerplate code, but the server is missing 
 
 #### Routes Required
 
-All these routes and all of the code in the **server** folder apart from, **db.js** and a couple of comments and export lines, was written by myself to create an API for these required tasks:
+All these routes and all of the code in the **server** folder apart from, **db.js** and a couple of comments and export lines, was written by myself to create an API for these required tasks. It should also be noted that the /api/ideas/:ideaId path wouldnt work but I found in the code that making is /api/ideas/id did work hence why it appears as such in the **ideas.js**
 
 - `/api/minions`
   - GET /api/minions to get an array of all minions.
