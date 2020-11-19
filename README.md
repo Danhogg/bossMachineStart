@@ -1,6 +1,6 @@
 # Boss Machine
 
-This is a project from Codecademy. The main description of the project will be provided with each piece that was coded in by myself.
+This is a project from Codecademy. The main description of the project will be provided and will state the parts that were coded in by myself and anything left to code I will eventually add.
 
 ## Project Overview
 
